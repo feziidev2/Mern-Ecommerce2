@@ -40,7 +40,7 @@ Node.js
 NPM (Node Package Manager)
 Cloning the Repository
 
-git clone https://github.com/MenathNDGD/MERN-Ecommerce.git
+git clone : https://github.com/feziidev2/Mern-Ecommerce2.git
 Installation
 
 Install the project dependencies using npm:
@@ -72,3 +72,4 @@ Open http://localhost:5174 in your browser to view the admin dashboard.
 Open http://localhost:400 in your browser to run the backend.
 
 Open http://localhost:5173 in your browser to view the
+
